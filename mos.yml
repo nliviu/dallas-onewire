@@ -1,4 +1,4 @@
-author: nliviu
+author: Liviu Nicolescu <nliviu@gmail.com>
 description: Implements Mongoose dallas onewire driver
 type: lib
 version: 1.0
